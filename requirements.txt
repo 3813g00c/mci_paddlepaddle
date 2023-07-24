@@ -1,0 +1,7 @@
+fastapi
+pydantic==1.10.8
+Pillow
+requests
+python-multipart
+uvicorn[standard]
+paddlenlp
